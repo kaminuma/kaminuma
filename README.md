@@ -5,7 +5,7 @@ I'm a software developer with a focus on improving code quality and exploring ne
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Java, Python, JavaScript, Kotlin
-- **Frameworks & Libraries**: Spring Boot, Thymeleaf, Vue.js, ElementPlus, vuetify
+- **Frameworks & Libraries**: Spring Boot, FastAPI, Thymeleaf, Vue.js, ElementPlus, vuetify
 - **DevOps & Tools**: Docker, Jenkins, GitHub Actions
 - **Cloud Platforms**: AWS
 - **Databases**: MySQL, H2DB
