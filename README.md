@@ -1,5 +1,5 @@
 # kaminuma
-## 👋 Hello! I'm [kaminuma]
+## 👋 Hello! I'm kaminuma
 I'm a software developer with a focus on improving code quality and exploring new technologies. With experience in languages such as Python, Kotlin, and Java, I enjoy working on both backend and frontend development. When I'm not coding, you can find me participating in competitive programming, writing technical blogs in Japanese, or exploring cybersecurity challenges on TryHackMe.
 
 ## 🛠️ Technologies & Tools
