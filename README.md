@@ -17,7 +17,7 @@ I am also working on environment setup with AWS and building automated deploymen
 ## 🛠️ 技術とツール / Technologies & Tools  
 
 - **プログラミング言語 / Languages**: Java、Python、JavaScript、Kotlin  
-- **フレームワークとライブラリ / Frameworks & Libraries**: Spring Boot、FastAPI、Flask、Vue.js、Vuetify  
+- **フレームワークとライブラリ / Frameworks & Libraries**: Spring Boot、Flask、Vue.js、Vuetify  
 - **DevOpsとツール / DevOps & Tools**: Docker、GitHub Actions  
 - **クラウドプラットフォーム / Cloud Platforms**: AWS  
 - **その他 / Others**: REST API開発、NLPモデルの活用  
@@ -27,7 +27,7 @@ I am also working on environment setup with AWS and building automated deploymen
 ## 🛠️ Technologies & Tools  
 
 - **Languages**: Java, Python, JavaScript, Kotlin  
-- **Frameworks & Libraries**: Spring Boot, FastAPI, Flask, Vue.js, Vuetify  
+- **Frameworks & Libraries**: Spring Boot, Flask, Vue.js, Vuetify  
 - **DevOps & Tools**: Docker, GitHub Actions  
 - **Cloud Platforms**: AWS  
 - **Others**: REST API Development, NLP Model Integration  
