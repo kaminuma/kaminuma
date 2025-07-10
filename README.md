@@ -42,9 +42,6 @@ In addition, I am also engaged in setting up cloud infrastructure with AWS and b
 
 ## 📄 Qiita
 - [Qiita Profile](https://qiita.com/kaminuma)  
-- [My Posts](https://qiita.com/kaminuma)  
-- [My Contributions](https://qiita.com/kaminuma)  
-- [My Followers](https://qiita.com/kaminuma)
 
 ---
 
