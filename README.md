@@ -38,7 +38,7 @@ In addition, I am also engaged in setting up cloud infrastructure with AWS and b
 - **SBM-Analyzer**: Python + NLP を使った活動記録の分析ツール
 - **SBM-Application_UI**: Vue.js + Vuetify による生活管理アプリのフロントエンド
 - **SBM-Application_API**: Spring Boot による生活管理アプリのバックエンド
-- **SBM-Application-Android-Native**: Kotlin + Jetpack Compose によるAndroidネイティブアプリ（このリポジトリ）
+- **SBM-Application-Android-Native**: Kotlin + Jetpack Compose によるAndroidネイティブアプリ
 
 ---
 
