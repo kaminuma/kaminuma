@@ -51,7 +51,7 @@ SBMアプリのリポジトリ群
 - **[cryptoLab](https://github.com/kaminuma/cryptoLab)**  
   React + TypeScript + WebCrypto API で構築された、暗号技術のハンズオン学習プラットフォーム。<br>
   古典暗号からAES、RSA、そして量子耐性暗号（PQC）までをブラウザ上で実行・学習可能。<br>
-  **[cryptLab Webサイト](https://cryptolab-8xw.pages.dev/learn)** <br>
+  **[cryptLab Webサイト](https://cryptolab-8xw.pages.dev)** <br>
   
 - **[quantum-rsa-lab](https://github.com/kaminuma/quantum-rsa-lab)**  
   Python + Qiskit を用いた量子アルゴリズム実験室。ShorのアルゴリズムによるRSA解読のシミュレーションなど。
