@@ -6,7 +6,7 @@
 Python, Kotlin, Java, PHP などの経験があり、バックエンドからフロントエンドまで幅広く取り組んでいます。
 
 現在は、生活管理アプリ（**Self-balanced memory**）の開発や、<br>
-暗号技術の学習プラットフォーム（**CryptoLab**）の構築に注力しています。
+暗号技術の学習プラットフォーム（**CryptoLab**）の構築とセキュリティ学習に注力しています。
 
 NLPを活用した分析、EChartsによる可視化、そしてモダンなWeb技術（React/Vite）とセキュリティ技術（WebCrypto/PQC）の融合に関心があります。
 
