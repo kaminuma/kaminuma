@@ -56,6 +56,14 @@ SBMアプリのリポジトリ群
 - **[quantum-rsa-lab](https://github.com/kaminuma/quantum-rsa-lab)**  
   Python + Qiskit を用いた量子アルゴリズム実験室。ShorのアルゴリズムによるRSA解読のシミュレーションなど。
 
+## Security Research
+
+- Discovered and responsibly disclosed multiple vulnerabilities in real-world OSS.
+- Assigned CVEs include:
+  - OS Command Injection leading to RCE (CWE-78)
+  - Path Traversal / Arbitrary File Write leading to RCE (CWE-22 / CWE-73)
+
+
 ---
 
 ## 📄 リンク
