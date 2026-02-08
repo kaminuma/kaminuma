@@ -1,6 +1,7 @@
 # Hi there, I'm kaminuma 👋
 
-> Software Developer / Full Stack Engineer
+> Software Developer / Full Stack Engineer /<br>
+> Security Researcher (Web, OSS, Crypto) / Bug Hunter
 
 ソフトウェア開発者として、コード品質の向上や新しい技術の探求に取り組んでいます。<br>
 Python, Kotlin, Java, PHP などの経験があり、バックエンドからフロントエンドまで幅広く取り組んでいます。
