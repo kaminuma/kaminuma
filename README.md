@@ -30,21 +30,6 @@ NLPを活用した分析、EChartsによる可視化、そしてモダンなWeb�
 
 ### 📱 Self-Balanced Memory (SBM) Series
 生活管理と自己分析のための包括的なアプリケーション。
-- **[Webアプリケーション](https://sbm-app.com/)**
-- **[GooglePlayアプリ](https://play.google.com/store/apps/details?id=com.sbm.application)**
-
-SBMアプリのリポジトリ群
-- **[SBM-Application_UI](https://github.com/kaminuma/SBM-Application_UI)**  
-  Vue.js + Vuetify によるモダンなフロントエンド。EChartsを用いた直感的なデータ可視化を実装。<br>
-  本番公開によりprivate
-- **[SBM-Application_API](https://github.com/kaminuma/SBM-Application_API)**  
-  Spring Boot による堅牢なバックエンドAPI。<br>
-   本番公開によりprivate
-- **[SBM-Analyzer](https://github.com/kaminuma/SBM-Analyzer)**  
-  Python + NLP を活用した活動記録の分析ツール。自然言語処理を用いて日々の記録からインサイトを抽出します。
-- **[SBM-Application-Android-Native](https://github.com/kaminuma/SBM-Application-Android-Native)**
-  Kotlin + Jetpack Compose で構築されたAndroidネイティブアプリ。<br>
-   本番公開によりprivate
 
 ### 🔐 Cryptography & Security
 暗号技術と量子コンピューティングの学習・実験プロジェクト。
