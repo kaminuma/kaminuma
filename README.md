@@ -1,52 +1,63 @@
 # Hi there, I'm kaminuma 👋
 
-> Software Developer / Full Stack Engineer /<br>
-> Security Researcher (Web, OSS, Crypto) / Bug Hunter
+Full Stack Engineer / Security Research
 
-ソフトウェア開発者として、コード品質の向上や新しい技術の探求に取り組んでいます。<br>
-Python, Kotlin, Java, PHP などの経験があり、バックエンドからフロントエンドまで幅広く取り組んでいます。
+I build software and spend a lot of time understanding how it actually works.
 
-現在は、生活管理アプリ（**Self-balanced memory**）の開発や、<br>
-暗号技術の学習プラットフォーム（**CryptoLab**）の構築とセキュリティ学習に注力しています。
+I work across backend and frontend systems,
+focusing on debugging complex behavior and improving architecture.
+I enjoy reading code deeply and tracing how systems fail.
 
-NLPを活用した分析、EChartsによる可視化、そしてモダンなWeb技術（React/Vite）とセキュリティ技術（WebCrypto/PQC）の融合に関心があります。
+Alongside development, I analyze real-world OSS code
+and conduct security research on web applications and crypto implementations.
 
-また、AWSを活用したインフラ構築やGitHub ActionsによるCI/CDの整備など、DevOps領域にも積極的に取り組んでいます。
+I’m currently building:
+- Self-balanced memory (life logging & analytics app)
+- CryptoLab (cryptography learning platform)
 
----
+I also work on infrastructure with AWS
+and CI/CD pipelines using GitHub Actions.
 
-## 🛠️ 技術スタック
-
-| カテゴリ | 技術・ツール |
-|----------|-------|
-| **言語** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **フレームワーク** | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |
-| **クラウド・DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **その他** | ECharts, Apache POI, GraphQL (Lighthouse), NLP Models, WebCrypto API |
+I like understanding systems from both sides:
+how they are built, and how they break.
 
 ---
 
-## 🗂️ 主なリポジトリ
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |
+| **Cloud / DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Other** | ECharts, Apache POI, GraphQL (Lighthouse), NLP Models, WebCrypto API |
+
+---
+
+## 🗂️ Key Repositories
 
 ### 📱 Self-Balanced Memory (SBM) Series
-生活管理と自己分析のための包括的なアプリケーション。
+A personal life management and analytics application ecosystem.
 
 ### 🔐 Cryptography & Security
-暗号技術と量子コンピューティングの学習・実験プロジェクト。
+
+Learning and experimental projects focused on cryptography and quantum computing.
 
 - **[cryptoLab](https://github.com/kaminuma/cryptoLab)**  
-  React + TypeScript + WebCrypto API で構築された、暗号技術のハンズオン学習プラットフォーム。<br>
-  古典暗号からAES、RSA、そして量子耐性暗号（PQC）までをブラウザ上で実行・学習可能。<br>
-  **[cryptLab Webサイト](https://cryptolab-8xw.pages.dev)** <br>
-  
+  A hands-on cryptography learning platform built with React + TypeScript + WebCrypto API.  
+  Covers classical ciphers, AES, RSA, and post-quantum cryptography (PQC) directly in the browser.  
+  👉 https://cryptolab-8xw.pages.dev
+
 - **[quantum-rsa-lab](https://github.com/kaminuma/quantum-rsa-lab)**  
-  Python + Qiskit を用いた量子アルゴリズム実験室。ShorのアルゴリズムによるRSA解読のシミュレーションなど。
+  A Python + Qiskit lab for experimenting with quantum algorithms,  
+  including simulations of Shor’s algorithm for RSA factorization.
 
 ---
 
-## 📄 リンク
+## 📄 Links
 
 - [Qiita Profile](https://qiita.com/kaminuma)
+
 
 ---
 
