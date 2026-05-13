@@ -36,7 +36,7 @@ how they are built, and how they break.
 
 ## 🗂️ Key Repositories
 
-### 📱 Self-Balanced Memory (SBM) Series
+### 📱 Self-Balanced Memory Series
 A personal life management and analytics application ecosystem.
 
 ### 🔐 Cryptography & Security
