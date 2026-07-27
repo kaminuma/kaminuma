@@ -71,6 +71,3 @@ Learning and experimental projects focused on cryptography and quantum computing
 |----------------------|-------|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaminuma&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaminuma&theme=gruvbox) |
 
-| Productive Time |
-|-----------------|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaminuma&theme=gruvbox&utcOffset=9) |
