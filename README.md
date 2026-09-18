@@ -41,18 +41,6 @@ A personal life management and analytics application ecosystem.
 
 ### 🔐 Cryptography & Security
 
-Learning and experimental projects focused on cryptography and quantum computing.
-
-- **[cryptoLab](https://github.com/kaminuma/cryptoLab)**  
-  A hands-on cryptography learning platform built with React + TypeScript + WebCrypto API.  
-  Covers classical ciphers, AES, RSA, and post-quantum cryptography (PQC) directly in the browser.  
-  👉 https://cryptolab-8xw.pages.dev
-
-- **[quantum-rsa-lab](https://github.com/kaminuma/quantum-rsa-lab)**  
-  A Python + Qiskit lab for experimenting with quantum algorithms,  
-  including simulations of Shor’s algorithm for RSA factorization.
-
----
 
 ## 📄 Links
 
